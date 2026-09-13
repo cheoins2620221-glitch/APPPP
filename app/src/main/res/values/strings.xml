@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreenTime Guardian</string>
+    <string name="accessibility_service_description">
+        자녀 기기의 앱 사용시간을 감시하고, 설정된 한도에 도달하면 안내 후 해당 앱을 종료합니다.
+    </string>
+</resources>
